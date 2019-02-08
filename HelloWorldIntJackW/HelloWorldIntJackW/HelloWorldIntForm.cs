@@ -16,5 +16,25 @@ namespace HelloWorldIntJackW
         {
             InitializeComponent();
         }
+
+        private void grbLanguages_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radPortugese_CheckedChanged(object sender, EventArgs e)
+        {
+           // lblGreetings.Text = "Olá Mundo!";
+        }
+
+        private void radEnglish_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radEnglish_CheckedChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
