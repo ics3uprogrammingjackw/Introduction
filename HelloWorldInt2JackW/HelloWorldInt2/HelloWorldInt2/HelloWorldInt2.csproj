@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A823BE06-495B-4802-BA7D-0662632956B4}</ProjectGuid>
+    <ProjectGuid>{3D506493-470C-48EB-A730-3EF9926AEB27}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>HelloWorldIntJackW</RootNamespace>
-    <AssemblyName>HelloWorldIntJackW</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <RootNamespace>HelloWorldInt2</RootNamespace>
+    <AssemblyName>HelloWorldInt2</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

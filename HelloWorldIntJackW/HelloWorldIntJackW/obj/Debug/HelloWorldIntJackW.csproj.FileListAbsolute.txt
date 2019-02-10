@@ -1,9 +1,0 @@
-N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Introduction\HelloWorldIntJackW\HelloWorldIntJackW\bin\Debug\HelloWorldIntJackW.exe.config
-N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Introduction\HelloWorldIntJackW\HelloWorldIntJackW\bin\Debug\HelloWorldIntJackW.exe
-N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Introduction\HelloWorldIntJackW\HelloWorldIntJackW\bin\Debug\HelloWorldIntJackW.pdb
-N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Introduction\HelloWorldIntJackW\HelloWorldIntJackW\obj\Debug\HelloWorldIntJackW.csprojResolveAssemblyReference.cache
-N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Introduction\HelloWorldIntJackW\HelloWorldIntJackW\obj\Debug\HelloWorldIntJackW.frmHelloWorldInt.resources
-N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Introduction\HelloWorldIntJackW\HelloWorldIntJackW\obj\Debug\HelloWorldIntJackW.Properties.Resources.resources
-N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Introduction\HelloWorldIntJackW\HelloWorldIntJackW\obj\Debug\HelloWorldIntJackW.csproj.GenerateResource.Cache
-N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Introduction\HelloWorldIntJackW\HelloWorldIntJackW\obj\Debug\HelloWorldIntJackW.exe
-N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Wright, Jack (s427624)\Introduction\HelloWorldIntJackW\HelloWorldIntJackW\obj\Debug\HelloWorldIntJackW.pdb

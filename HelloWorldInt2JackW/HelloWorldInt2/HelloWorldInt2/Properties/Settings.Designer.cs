@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HelloWorldIntJackW.Properties
+namespace HelloWorldInt2.Properties
 {
 
 
