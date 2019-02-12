@@ -24,7 +24,7 @@ namespace HelloWorldIntJackW
 
         private void radPortugese_CheckedChanged(object sender, EventArgs e)
         {
-           // lblGreetings.Text = "Olá Mundo!";
+            lblGreetings.Text = "Olá Mundo!";
         }
 
         private void radEnglish_CheckedChanged(object sender, EventArgs e)
@@ -33,6 +33,16 @@ namespace HelloWorldIntJackW
         }
 
         private void radEnglish_CheckedChanged_1(object sender, EventArgs e)
+        {
+            lblGreetings.Text = "Hello, World!";
+        }
+
+        private void radSpanish_CheckedChanged(object sender, EventArgs e)
+        {
+            lblGreetings.Text = "Hola Mundo!";
+        }
+
+        private void radPortugese_CheckedChanged_1(object sender, EventArgs e)
         {
 
         }
